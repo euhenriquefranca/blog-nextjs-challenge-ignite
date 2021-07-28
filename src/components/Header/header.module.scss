@@ -1,1 +1,13 @@
-// TODO
+.headerContainer {
+  padding: 2.5rem 0;
+  max-width: 1120px;
+  margin: 5 auto;
+}
+
+.headerContent {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  background: var(--black-900);
+}

@@ -1,1 +1,37 @@
-// TODO
+.postInfo {
+  display: flex;
+
+  div + div {
+    margin-left: 1.6rem;
+  }
+}
+
+.postPublicationDate {
+  display: flex;
+  align-items: center;
+  color: var(--gray-250);
+
+  svg {
+    margin-right: 8px;
+  }
+}
+
+.postAuthor {
+  display: flex;
+  align-items: center;
+  color: var(--gray-250);
+
+  svg {
+    margin-right: 8px;
+  }
+}
+
+.readingTime {
+  display: flex;
+  align-items: center;
+  color: var(--gray-250);
+
+  svg {
+    margin-right: 8px;
+  }
+}
